@@ -6,7 +6,8 @@ kramdown:
   parse_block_html: true
 
 title: Poligon Educational
-description: Știința pe mai multe laturi
+description: "Știința pe mai multe laturi<br>Many-sided Science"
+url: "https://poligon-edu.ro" # the base hostname & protocol for your site
 
 # # Welcome to Jekyll!
 # #
