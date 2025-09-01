@@ -1,6 +1,11 @@
+---
+layout: default
+title: Bun venit!
+---
+
 <!-- English version **[here](english.html)**. -->
 
-Bun venit!
+# Bun venit!
 
 **Poligon Educational** este un proiect care prezintă științele (în special, matematica, fizica și informatica)
 împreună cu dezvoltarea lor istorică, tehnologie, legături și aplicații cu alte discipline.
@@ -10,7 +15,8 @@ Bun venit!
 * Te-ar surprinde să afli că metafora ― da, procedeul literar pe care l-ai învățat la școală — este [folositoare în educația științifică](https://www.dilema.ro/caleidoscopie/limba-literatura-matematica)?
 * Ți-ar plăcea să te joci într-un [simulator de geometrie neeuclidiană](https://mindcraftstories.ro/cultura/3-jocuri-video-care-te-invata-matematica-de-nota-10/)?
 
-Iată doar cîteva dintre exemplele pe care le folosim la Poligon în studiul științelor.
+Iată doar cîteva dintre exemplele care arată că legăturile dintre științe și celelalte 
+discipline sînt mai diverse și ample decît par.
 
 Nivelul de dificultate este personalizat fiecărui elev, student sau cursant, iar fiecare lecție este plină de discuții,
 exemple, aplicații și unelte digitale pentru a explora mai multe.
