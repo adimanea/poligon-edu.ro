@@ -46,3 +46,21 @@ blockquote {
 .site-title {
   color: #3b4758 !important;
 }
+
+.description {
+  text-align: center;
+  margin: 0 auto;
+  /* max-width: 600px; Optional: keeps it readable */
+  /* font-size: 1.1em;  Optional: tweak as needed */
+}
+
+/* .site-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+
+/* .description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+} */
