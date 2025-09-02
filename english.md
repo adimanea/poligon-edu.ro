@@ -40,7 +40,7 @@ Poligon Educational started officially in 2022, but it was only a natural extens
 for science education and communication that I felt ever since finishing high school. I wanted to
 put them to good public use and also meet people with similar passion and curiosity.
 
-<img src="assets/adrian.jpg" alt="Adrian Manea" title="Adrian Manea" style="max-width:50%; height:auto; display:block; margin-left:auto; margin-right:auto;" />
+<img src="assets/adrian.jpg" alt="Adrian Manea" title="Adrian Manea" style="max-width:33%; height:auto; display:block; margin-left:auto; margin-right:auto;" />
 
 I'm [Adrian Manea](https://adrianmanea.xyz/english.html), PhD. in Mathematics since 2016, teacher, 
 and science communicator with an academic background and more than 15 years of 
