@@ -6,6 +6,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Finlandica', sans-serif !important;
+  color: #3b4758 !important;
 }
 
 a {
@@ -25,4 +26,23 @@ blockquote {
   padding: 0.5em 1em;
   margin: 1em 0;
   font-style: italic;
+}
+
+.site-header .logo-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+}
+
+.site-logo {
+  max-height: 48px;
+  vertical-align: middle;
+  /* Optional: adjust alignment if needed */
+  position: relative;
+  bottom: 10px; /* tweak this value for perfect vertical centering */
+}
+
+.site-title {
+  color: #3b4758 !important;
 }
