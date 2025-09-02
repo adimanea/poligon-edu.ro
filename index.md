@@ -37,10 +37,13 @@ Poligon Educational a început oficial în 2022, dar a fost continuarea natural�
 și implicării în educația și comunicarea științei pe care le-am avut încă din ultimii ani de liceu.
 Am vrut să dau o formă publică acestor porniri și să cunosc oameni cu pasiuni și curiozități similare.
 
-<img src="assets/adrian.jpg" alt="Adrian Manea" title="Adrian Manea" style="max-width:33%; height:auto; display:block; margin-left: auto; margin-right:auto;" />
+<img src="assets/adrian.jpg" alt="Adrian Manea" title="Adrian Manea"
+     style="float: left; margin: 0 15px 0 0; max-width:33%; height: auto;" />
 
+<p>
 Eu sînt Adrian Manea, doctor în matematici din 2016, profesor și comunicator
 al științei cu experiență academică și didactică.
+</p>
 
 Mă găsești pe [Facebook](https://www.facebook.com/adriancostinmanea) sau pe [site-ul personal](https://adrianmanea.xyz).
 
