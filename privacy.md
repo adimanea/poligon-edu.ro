@@ -1,3 +1,18 @@
+---
+layout: default
+title: Privacy Policy
+---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2SJLNGNK0T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2SJLNGNK0T');
+</script>
+
 # Confidențialitate (Privacy Policy)
 
 ## Informații generale
@@ -40,8 +55,9 @@ Datele cu caracter personal furnizate către Poligon Educational pot fi transfer
 
 În afara mijloacelor de prelucrare a datelor cu caracter personal operate direct de Poligon Educational, prelucrarea se realizează și indirect, de către furnizorii de servicii IT cu care compania noastră operează. Lista acestora, împreună cu politicile de confidențialitate în vigoare este:
 
-* Administrare domeniu online: Namecheap. [Politică de confidențialitate](https://www.namecheap.com/legal/general/privacy-policy/).
+* Administrare domeniu online: Romarg. [Politică de confidențialitate](https://www.romarg.ro/politica-de-confidentialitate.html).
 * Administrare website: GitHub. [Politică de confidențialitate](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+* Analiză trafic: Google Analytics. [Politică de confidențialitate](https://policies.google.com/privacy?hl=en-US)
 * Administrare email: Microsoft. [Politică de confidențialitate](https://www.microsoft.com/en-us/privacy/privacystatement?msockid=2395bff90cb16af006bba9ad0d4b6bb0).
 * Transfer de fișiere: Microsoft.
 * Pagină Facebook Poligon Educational. [Politică de confidențialitate](https://www.facebook.com/privacy/policy/?entry_point=comet_dropdown).

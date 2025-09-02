@@ -3,6 +3,16 @@ layout: default
 title: Educational Game Design
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2SJLNGNK0T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2SJLNGNK0T');
+</script>
+
 ![Game Design](assets/gamification.jpg)
 
 # Gamification and Game Design Concepts for Education

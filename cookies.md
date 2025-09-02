@@ -1,3 +1,18 @@
+---
+layout: default
+title: Cookies
+---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2SJLNGNK0T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2SJLNGNK0T');
+</script>
+
 # Cookie Policy
 
 ## What Are Cookies
@@ -19,10 +34,10 @@ In order to provide you with a great experience on this site we provide the func
 * Third Party Cookies
 In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
 
-<!-- This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
-For more information on Google Analytics cookies, see the official Google Analytics page. -->
+This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
+For more information on Google Analytics cookies, see the official Google Analytics page.
 
-<!-- Third party analytics are used to track and measure usage of this site so that we can continue to produce engaging content. These cookies may track things such as how long you spend on the site or pages you visit which helps us to understand how we can improve the site for you. -->
+Third party analytics are used to track and measure usage of this site so that we can continue to produce engaging content. These cookies may track things such as how long you spend on the site or pages you visit which helps us to understand how we can improve the site for you.
 
 From time to time we test new features and make subtle changes to the way that the site is delivered. When we are still testing new features these cookies may be used to ensure that you receive a consistent experience whilst on the site whilst ensuring we understand which optimisations our users appreciate the most.
 
