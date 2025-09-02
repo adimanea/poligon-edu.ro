@@ -1,3 +1,10 @@
+---
+layout: default
+title: Level up!
+---
+
+![Level up](assets/mario.avif)
+
 # Level up!
 
 Transformă pasiunea pentru jocuri într-o experiență de socializare și învățare!
@@ -13,7 +20,7 @@ ca gamer, dar și să înveți multe alte lucruri. Ne vom juca, vom discuta
 strategiile și poveștile spuse de jocuri video și board games, într-un 
 cadru relaxat, dar și competitiv.
 
-Dacă ai între 13 și 17 ani și locuiești în București, înscrie-te în clubul nostru!
+Dacă ai între 13 și 17 ani și locuiești în București, [înscrie-te](#înscrie-te) în clubul nostru!
 
 ## Organizare
 Vom face întîlniri săptămînale, în care ne jucăm și discutăm despre 
@@ -31,9 +38,6 @@ Discord la care poți participa pentru alte discuții și sesiuni comune.
 
 Alcătuim grupe de cîte 5-6 participanți și discutăm o ofertă personalizată 
 în cadrul unei ședințe comune.
-
-Mai multe detalii și înscrieri prin [email](mailto:adrianmanea@poligon-edu.ro) sau 
-[WhatsApp](https://wa.link/279kzl).
 
 ## Jocurile propuse
 Portofoliul se va extinde treptat, dar deocamdată conține următoarele:
@@ -68,13 +72,16 @@ Portofoliul se va extinde treptat, dar deocamdată conține următoarele:
 * Stone Age;
 * Istanbul.
 
-De ce ai nevoie?
-De timp și curiozitate!
+Ai nevoie doar de timp și curiozitate!
 
 Dacă ai deja vreunul dintre jocurile de mai sus, în variantă digitală, pe PC sau consolă, este foarte bine. 
 
 Dacă nu, poți participa oricum. Jocurile din categoria Board și card games le găsești la noi și le jucăm împreună.
 
-În plus, dacă te plasezi printre primii la activitățile noastre, poți cîștiga unul din jocurile propuse!
+În plus, dacă te plasezi printre primii la activitățile noastre, poți cîștiga unul sau mai multe din jocurile propuse!
+
+## Înscrie-te
+Trimite-ne un [email](mailto:adrianmanea@poligon-edu.ro) sau un mesaj pe [WhatsApp](https://wa.link/279kzl)
+pentru mai multe detalii.
 
 **Ai experiență? LEVEL UP!**

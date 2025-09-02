@@ -12,3 +12,17 @@ a {
   color: #008e80 !important;
   text-decoration: none !important;
 }
+
+a.action {
+  font-family: "Finlandica", sans-serif !important;
+  font-weight: 700 !important;
+  font-size: larger !important;
+}
+
+/* Example blockquote styling */
+blockquote {
+  border-left: 4px solid #ccc;
+  padding: 0.5em 1em;
+  margin: 1em 0;
+  font-style: italic;
+}
