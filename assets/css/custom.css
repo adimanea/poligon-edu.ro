@@ -36,15 +36,16 @@ blockquote {
 }
 
 .site-logo {
-  max-height: 48px;
+  max-height: 32px;
   vertical-align: middle;
   /* Optional: adjust alignment if needed */
   position: relative;
-  bottom: 10px; /* tweak this value for perfect vertical centering */
+  bottom: 8px; /* tweak this value for perfect vertical centering */
 }
 
 .site-title {
   color: #3b4758 !important;
+  font-size: 0.8em !important;
 }
 
 .description {
