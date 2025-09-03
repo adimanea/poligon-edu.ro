@@ -45,14 +45,20 @@ put them to good public use and also meet people with similar passion and curios
 
 <p>
 I'm <a href="https://adrianmanea.xyz/english.html">Adrian Manea</a>, PhD. in Mathematics since 2016, teacher, 
-and science communicator with an academic background and more than 15 years of 
-private and public teaching experience.
+science communicator and freelance writer with an academic background and more than 15 years of 
+research, plus private and public teaching experience.
 </p>
+
+At Poligon Educational, I work with teachers, academics, and professionals that share the values 
+and appreciation for excellence in learning and scientific education.
+
+We use modern approaches and technology, designing a personalized experience for individual
+students of all ages, backgrounds and goals.
 
 ---
 
 ## Contact
 For any questions or proposals feel free to reach out at:
-* email: `adrianmanea@poligon-edu.ro`;
-* WhatsApp: +40 750 408 128.
+* email: [adrianmanea@poligon-edu.ro](mailto:adrianmanea@poligon-edu.ro);
+* WhatsApp: [+40 750 408 128](https://wa.me/40750408128).
 

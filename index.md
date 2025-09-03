@@ -62,6 +62,6 @@ discipline.
 
 ## Colaborări și contact
 Dacă ai întrebări, vrei să ne urmărești sau să ne propui o colaborare, ne găsești prin:
-* email: `adrianmanea@poligon-edu.ro`;
-* WhatsApp: +40 750 408 128;
-* [Facebook](https://www.facebook.com/PoligonEducational).
+* email: [adrianmanea@poligon-edu.ro](mailto:adrianmanea@poligon-edu.ro);
+* WhatsApp: [+40 750 408 128](https://wa.me/40750408128);
+* Facebook: [@PoligonEducational](https://www.facebook.com/PoligonEducational).
