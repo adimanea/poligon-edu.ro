@@ -55,7 +55,8 @@ and appreciation for excellence in learning and scientific education.
 We use modern approaches and technology, designing a personalized experience for individual
 students of all ages, backgrounds and goals.
 
----
+## Blog
+Read articles on STEM education, history and philosophy of mathematics, and more in <a class="linear-text-gradient" href="https://www.thegradient.xyz">The Gradient</a>.
 
 ## Contact
 For any questions or proposals feel free to reach out at:
