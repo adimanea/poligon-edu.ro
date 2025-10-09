@@ -58,12 +58,16 @@ Prin Poligon Educational, lucrez alături de colaboratori cu experiență academ
 pasionați de educație cu metode și unelte moderne, personalizate și care integrează mai multe
 discipline.
 
+Echipa actuală mai conține pe
+- <a class="action" href="./maria.html">Maria Kaproș</a>;
+- <a class="action" href="./razvan.html">Răzvan Z. Vulpe</a>.
+
 ## Blog
 Citește articole despre educația științifică, istoria, filosofia matematicii și nu numai în <a class="linear-text-gradient" href="https://www.gradientul.xyz">Gradient</a>.
 
 ## Colaborări și contact
 Dacă ai întrebări, vrei să ne urmărești sau să ne propui o colaborare, ne găsești prin:
-* email: [adrianmanea@poligon-edu.ro](mailto:adrianmanea@poligon-edu.ro);
+* email: [contact@poligon-edu.ro](mailto:adrianmanea@poligon-edu.ro);
 * WhatsApp: [+40 750 408 128](https://wa.me/40750408128);
 * Facebook: [@PoligonEducational](https://www.facebook.com/PoligonEducational).
 

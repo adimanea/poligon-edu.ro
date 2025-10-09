@@ -52,6 +52,10 @@ research, plus private and public teaching experience.
 At Poligon Educational, I work with teachers, academics, and professionals that share the values 
 and appreciation for excellence in learning and scientific education.
 
+The team currently includes
+- <a class="action" href="./maria_en.html">Maria Kapros</a>;
+- <a class="action" href="./razvan_en.html">Răzvan Z. Vulpe</a>.
+
 We use modern approaches and technology, designing a personalized experience for individual
 students of all ages, backgrounds and goals.
 
