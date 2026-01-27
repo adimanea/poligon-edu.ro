@@ -53,6 +53,7 @@ At Poligon Educational, I work with teachers, academics, and professionals that 
 and appreciation for excellence in learning and scientific education.
 
 The team currently includes
+- <a class="action" href="./joshua_en.html">Joshua P. Biro</a>;
 - <a class="action" href="./maria_en.html">Maria Kapros</a>;
 - <a class="action" href="./razvan_en.html">Răzvan Z. Vulpe</a>.
 
