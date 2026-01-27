@@ -57,6 +57,9 @@ John Locke din Oxford.
 zece conferințe naționale și la un podcast internațional de radioterapie. 
 Am adaptat lucrarea mea de disertație într-o carte intitulată 
 [„Dincolo de manual: explorări didactice în fizica atomică, nucleară și medicală”](https://www.librarie.net/p/502610/dincolo-de-manual-explorari-didactice-in-fizica-atomica-nucleara-si-medicala).
+
+În plus, am și o activitate publicistică, la [Școala9](https://scoala9.ro/redactia/patrick-joshua-biro/232),
+[Contributors](https://www.contributors.ro/author/patrick-joshua-biro/) și alte apariții media locale.
  
 Prin toate aceste experiențe, am ajuns mai dornic să-i înțeleg și 
 pe cei din jurul meu. Nu sunt străin de burnout și de îndoiala care 
