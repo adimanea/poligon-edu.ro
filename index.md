@@ -58,7 +58,8 @@ Prin Poligon Educational, lucrez alături de colaboratori cu experiență academ
 pasionați de educație cu metode și unelte moderne, personalizate și care integrează mai multe
 discipline.
 
-Echipa actuală mai conține pe
+Echipa actuală mai conține pe:
+- <a class="action" href="./joshua.html">Joshua P. Biro</a>;
 - <a class="action" href="./maria.html">Maria Kaproș</a>;
 - <a class="action" href="./razvan.html">Răzvan Z. Vulpe</a>.
 
