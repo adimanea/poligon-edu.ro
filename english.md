@@ -41,7 +41,7 @@ for science education and communication that I felt ever since finishing high sc
 put them to good public use and also meet people with similar passion and curiosity.
 
 <img src="assets/adrian.png" alt="Adrian Manea" title="Adrian Manea"
-     style="float: left; margin: 0 15px 0 0; max-width:33%; height: auto;" />
+     style="float: left; margin: 0 15px 0 0; max-width:40%; height: auto;" />
 
 <p>
 I'm <a href="https://adrianmanea.xyz/english.html">Adrian Manea</a>, PhD. in Mathematics since 2016, teacher, 
