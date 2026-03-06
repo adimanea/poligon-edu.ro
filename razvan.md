@@ -43,4 +43,4 @@ Planurile mele de viitor sunt să public cercetarea pe care am făcut-o și să 
 
 Sunt mereu interesat de optiuni de colaborare! 
 
-Puteți sa dați de mine prin email la [`razvanvulpe@poligon-edu.ro`](mailto:razvanvulpe@poligon-edu.ro) sau pe [Linkedin](https://www.linkedin.com/in/rhys-z-vulpe/).
+Puteți sa dați de mine prin email la [`contact@poligon-edu.ro`](mailto:contact@poligon-edu.ro) sau pe [Linkedin](https://www.linkedin.com/in/rhys-z-vulpe/).

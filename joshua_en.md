@@ -65,4 +65,4 @@ and all my activity.
 
 I'm happy to be part of the Poligon Educational team starting January 2026,
 so feel free to reach out to me for questions or proposals
-at [`joshuabiro@poligon-edu.ro`](mailto:joshuabiro@poligon-edu.ro).
+at [`contact@poligon-edu.ro`](mailto:contact@poligon-edu.ro).

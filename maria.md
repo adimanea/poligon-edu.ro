@@ -39,4 +39,4 @@ Mă gândesc să urmez o carieră academică în matematică aplicată, în spec
 
 În același timp, vreau să contribui la îmbunătățirea educației și a cercetării din România cu accent pe alfabetizare științifică și matematică.. 
 
-Pentru colaborare și alte subiecte, îmi puteți scrie la [`mariakapros@poligon-edu.ro`](mailto:mariakapros@poligon-edu.ro).
+Pentru colaborare și alte subiecte, îmi puteți scrie la [`contact@poligon-edu.ro`](mailto:contact@poligon-edu.ro).

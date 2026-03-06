@@ -70,5 +70,5 @@ mai apare din timp în timp, ceea ce mă motivează să aduc claritate
 
 Sunt bucuros să fiu parte a echipei Poligon Educational din ianuarie 2026,
 iar pentru colaborări sau alte întrebări, îmi puteți scrie la
-[`joshuabiro@poligon-edu.ro`](mailto:joshuabiro@poligon-edu.ro).
+[`contact@poligon-edu.ro`](mailto:contact@poligon-edu.ro).
  

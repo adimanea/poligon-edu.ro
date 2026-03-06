@@ -43,4 +43,4 @@ I interviewed streamers and part of my research was presented during two confere
 
 My plans are to publish the research I’ve done and to create popular science materials with the Poligon team, making mathematics more accessible to a general audience. 
 
-I’m always open to collaboration! You can reach me via email at [`razvanvulpe@poligon-edu.ro`](mailto:razvanvulpe@poligon-edu.ro) or connect on [Linkedin](https://www.linkedin.com/in/rhys-z-vulpe/).
+I’m always open to collaboration! You can reach me via email at [`contact@poligon-edu.ro`](mailto:contact@poligon-edu.ro) or connect on [Linkedin](https://www.linkedin.com/in/rhys-z-vulpe/).

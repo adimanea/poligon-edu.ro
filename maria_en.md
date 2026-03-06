@@ -37,4 +37,4 @@ I am currently enrolled in a postgraduate program in Advanced Mathematics at the
 
 I'm interested in an academic research career in applied mathematics with a focus on neuroscience. Equally, I want to help improve the mathematics literacy in Romania with educational and research projects. 
 
-Feel free to get in touch at [`mariakapros@poligon-edu.ro`](mailto:mariakapros@poligon-edu.ro).
+Feel free to get in touch at [`contact@poligon-edu.ro`](mailto:contact@poligon-edu.ro).
