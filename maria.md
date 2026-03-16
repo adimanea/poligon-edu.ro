@@ -19,7 +19,7 @@ title: Home
 
 Servus!
 
-Eu sunt Maria și în echipa Poligon mă ocup cu meditațiile pentru liceu (IB și bacalaureatul românesc).  
+Eu sunt Maria și în echipa Poligon mă ocup cu meditațiile de matematică pentru gimnaziu.
 
 Lucrez și la articole de popularizarea științei, cu teme aplicate, surprinzătoare sau pur și simplu frumoase din domeniile mele de interes: 
 
