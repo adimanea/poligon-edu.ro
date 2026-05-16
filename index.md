@@ -37,7 +37,7 @@ Poligon Educational a început oficial în 2022, dar a fost continuarea natural�
 și implicării în educația și comunicarea științei pe care le-am avut încă din ultimii ani de liceu.
 Am vrut să dau o formă publică acestor porniri și să cunosc oameni cu pasiuni și curiozități similare.
 
-<img src="assets/adrian.png" alt="Adrian Manea" title="Adrian Manea"
+<img src="assets/adrian.jpg" alt="Adrian Manea" title="Adrian Manea"
      style="float: left; margin: 0 15px 0 0; max-width:40%; height: auto;" />
 
 <p>
